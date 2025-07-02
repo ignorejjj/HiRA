@@ -80,26 +80,6 @@ HiRA’s *agentic reasoning process* iteratively plans, delegates, and integrate
 
 ---
 
-## 📊 Performance
-
-HiRA achieves **state-of-the-art results** across complex deep search tasks:
-
-<p align="center">
-  <img src="assets/results.jpg" width="90%" alt="HiRA Algorithm" />
-</p>
-
-HiRA consistently outperforms baselines, especially on complex tasks requiring:
-- Long-horizon planning
-- Information Seeking
-- Multimodal integration
-- Computational reasoning
-
-<p align="center">
-  <img src="assets/multi_cap.jpg" width="90%" alt="HiRA Algorithm" />
-</p>
-
----
-
 ## 🛠️ Setup
 
 ### Requirements
@@ -200,6 +180,26 @@ python scripts/evaluate/evaluate.py \
 - `--use_llm` - Enable LLM-based evaluation for complex answers
 - `--api_base_url` - API endpoint for evaluation model
 - `--model_name` - Model name for evaluation scoring
+
+---
+
+## 📊 Performance
+
+HiRA achieves **state-of-the-art results** across complex deep search tasks:
+
+<p align="center">
+  <img src="assets/results.jpg" width="90%" alt="HiRA Algorithm" />
+</p>
+
+HiRA consistently outperforms baselines, especially on complex tasks requiring:
+- Long-horizon planning
+- Information Seeking
+- Multimodal integration
+- Computational reasoning
+
+<p align="center">
+  <img src="assets/multi_cap.jpg" width="90%" alt="HiRA Algorithm" />
+</p>
 
 ---
 
