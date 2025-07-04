@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg?logo=arxiv)]([assets/paper.pdf](https://arxiv.org/abs/2507.02652)) [![License](https://img.shields.io/badge/LICENSE-MIT-green.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2507.02652) [![License](https://img.shields.io/badge/LICENSE-MIT-green.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 
 </div>
 
