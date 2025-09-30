@@ -201,30 +201,3 @@ HiRA consistently outperforms baselines, especially on complex tasks requiring:
   <img src="assets/multi_cap.jpg" width="90%" alt="HiRA Algorithm" />
 </p>
 
----
-
-## 📄 Citation
-
-If you use HiRA in your research, please cite our paper:
-
-```bibtex
-@article{hira2025,
-  title={Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search},
-  author={Jiajie Jin, Xiaoxi Li, Guanting Dong, Yuyao Zhang, Yutao Zhu,Yang Zhao, Zhicheng Dou},
-  journal={arXiv preprint},
-  year={2025}
-}
-```
-
----
-
-## 📞 Contact
-
-For questions, feedback, or collaboration opportunities, please contact us at:
-**Email:** jinjiajie@ruc.edu.cn
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
