@@ -1,13 +1,5 @@
 <h1 align="center"> 🧭 HiRA: Hierarchical Reasoning Framework for Deep Search</h1>
 
-<div align="center">
-
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2507.02652) [![License](https://img.shields.io/badge/LICENSE-MIT-green.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-
-</div>
-
-<h5 align="center">⭐ If you find this project helpful, please star ⭐ the repo to support us!</h5>
-
 
 ---
 
